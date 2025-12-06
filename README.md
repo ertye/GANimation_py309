@@ -1,3 +1,6 @@
+These codes are forked from https://github.com/albertpumarola/GANimation
+But the python codes are in Python 3.9 version
+
 <img src='http://www.albertpumarola.com/images/2018/GANimation/face1_cyc.gif' align="right" width=90>
 
 # GANimation: Anatomically-aware Facial Animation from a Single Image
